@@ -17,7 +17,7 @@ I'm an experienced Blockchain and Full Stack Developer with over 12 years of cod
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=solidity,rust,python,c,cpp,csharp,java,js,php,react,nextjs,nodejs,vuejs,django,laravel,yii,docker" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=solidity,rust,python,c,cpp,java,js,php,react,nextjs,nodejs,vuejs,django,laravel,yii,docker" alt="Tech Stack" />
 
 ## GitHub Stats
 
@@ -42,17 +42,17 @@ As a seasoned blockchain developer, I’ve worked on cutting-edge DeFi projects,
   <tr>
     <td>
       <a href="https://mint.potatopower.club/" target="_blank">
-        <img src="https://github.com/ninja-1337/ninja-1337/blob/main/projects/PotatoPowerClub.png?raw=true" width="300" alt="PotatoPowerClub">
+        <img src="https://github.com/sunmoon11100/profile/blob/main/projects/FunkiFoxes.png?raw=true" width="300">
       </a>
     </td>
     <td>
       <a href="https://cryptopigs.one/#/" target="_blank">
-        <img src="https://github.com/ninja-1337/ninja-1337/blob/main/projects/CryptoPig.png?raw=true" width="300" alt="CryptoPigs">
+        <img src="https://github.com/sunmoon11100/profile/blob/main/projects/CryptoPig.png?raw=true" width="300">
       </a>
     </td>
     <td>
       <a href="https://funkifoxes.com/" target="_blank">
-        <img src="https://github.com/ninja-1337/ninja-1337/blob/main/projects/FunkiFoxes.png?raw=true" width="300" alt="FunkiFoxes">
+        <img src="https://github.com/sunmoon11100/profile/blob/main/projects/PotatoPowerClub.png?raw=true" width="300">
       </a>
     </td>
   </tr>
@@ -66,17 +66,17 @@ As a seasoned blockchain developer, I’ve worked on cutting-edge DeFi projects,
   <tr>
     <td>
       <a href="https://www.piracypunks.com/" target="_blank">
-        <img src="https://github.com/ninja-1337/ninja-1337/blob/main/projects/PiracyPunks.png?raw=true" width="300" alt="PiracyPunks">
+         <img src="https://github.com/sunmoon11100/profile/blob/main/projects/Ragnarregiment.png?raw=true" width="300">
       </a>
     </td>
     <td>
       <a href="https://helldemon.cryptoliveton.com/" target="_blank">
-        <img src="https://github.com/ninja-1337/ninja-1337/blob/main/projects/HellDemon.png?raw=true" width="300" alt="HellDemon">
+        <img src="https://github.com/sunmoon11100/profile/blob/main/projects/HellDemon.png?raw=true" width="300">
       </a>
     </td>
     <td>
       <a href="https://theragnarregiment.com/" target="_blank">
-        <img src="https://github.com/ninja-1337/ninja-1337/blob/main/projects/Ragnarregiment.png?raw=true" width="300" alt="RagnarRegiment">
+        <img src="https://github.com/sunmoon11100/profile/blob/main/projects/PiracyPunks.png?raw=true" width="300">
       </a>
     </td>
   </tr>
@@ -96,22 +96,22 @@ As a seasoned blockchain developer, I’ve worked on cutting-edge DeFi projects,
   <tr>
     <td>
       <a href="https://nft.audioburst.io/" target="_blank">
-        <img src="https://github.com/ninja-1337/ninja-1337/blob/main/projects/Audioburst.png?raw=true" width="200" alt="Audioburst">
+         <img src="https://github.com/sunmoon11100/profile/blob/main/projects/qubismmarketplace.png?raw=true" width="200">
       </a>
     </td>
     <td>
       <a href="https://latitud.art/" target="_blank">
-        <img src="https://github.com/ninja-1337/ninja-1337/blob/main/projects/latitud.png?raw=true" width="200" alt="Latitude">
+        <img src="https://github.com/sunmoon11100/profile/blob/main/projects/LunachowNFT.png?raw=true" width="200">
       </a>
     </td>
     <td>
       <a href="https://lunachownft.com/" target="_blank">
-        <img src="https://github.com/ninja-1337/ninja-1337/blob/main/projects/LunachowNFT.png?raw=true" width="200" alt="LunaChowNFT">
+        <img src="https://github.com/sunmoon11100/profile/blob/main/projects/latitud.png?raw=true" width="200">
       </a>
     </td>
     <td>
       <a href="https://qubismmarketplace.org/" target="_blank">
-        <img src="https://github.com/ninja-1337/ninja-1337/blob/main/projects/qubismmarketplace.png?raw=true" width="200" alt="QubismMarketplace">
+        <img src="https://github.com/sunmoon11100/profile/blob/main/projects/Audioburst.png?raw=true" width="200">
       </a>
     </td>
   </tr>
@@ -131,22 +131,22 @@ As a seasoned blockchain developer, I’ve worked on cutting-edge DeFi projects,
   <tr>
     <td>
       <a href="https://liquidswap.com/#/" target="_blank">
-        <img src="https://github.com/ninja-1337/ninja-1337/blob/main/projects/LiquidSwap.png?raw=true" width="300" alt="LiquidSwap">
+        <img src="https://github.com/sunmoon11100/profile/blob/main/projects/maticswap.png?raw=true" width="300">
       </a>
     </td>
     <td>
       <a href="https://app.luchowswap.com/" target="_blank">
-        <img src="https://github.com/ninja-1337/ninja-1337/blob/main/projects/LuchowSwap.png?raw=true" width="300" alt="LuchowSwap">
+        <img src="https://github.com/sunmoon11100/profile/blob/main/projects/cosmicswap.png?raw=true" width="300">
       </a>
     </td>
     <td>
       <a href="https://app.cosmicswap.finance/" target="_blank">
-        <img src="https://github.com/ninja-1337/ninja-1337/blob/main/projects/cosmicswap.png?raw=true" width="300" alt="CosmicSwap">
+        <img src="https://github.com/sunmoon11100/profile/blob/main/projects/LuchowSwap.png?raw=true" width="300">
       </a>
     </td>
     <td>
       <a href="https://maticfront.web.app/farms" target="_blank">
-        <img src="https://github.com/ninja-1337/ninja-1337/blob/main/projects/maticswap.png?raw=true" width="300" alt="MaticSwap">
+        <img src="https://github.com/sunmoon11100/profile/blob/main/projects/LiquidSwap.png?raw=true" width="300">
       </a>
     </td>
   </tr>
@@ -159,10 +159,6 @@ As a seasoned blockchain developer, I’ve worked on cutting-edge DeFi projects,
 - **Decentralized Exchanges with TradingView**: Integrated real-time charting for trading interfaces.
 - **Token Bridge & Block Explorer**: Built infrastructure for cross-chain transactions and blockchain exploration.
 - **Smart Contracts**: Developed ERC-20, ERC-721, and custom contracts for token pre-sales, redistribution, and staking.
-
-## GitHub Activity
-
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ninja-1337&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## GitHub Stats & Trophies
 
@@ -187,7 +183,7 @@ As a seasoned blockchain developer, I’ve worked on cutting-edge DeFi projects,
 
 ## Operating Systems & Tools
 
-<table align="left">
+<table align="center">
   <tr>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></td>
@@ -196,20 +192,27 @@ As a seasoned blockchain developer, I’ve worked on cutting-edge DeFi projects,
   </tr>
 </table>
 
-## How to Reach Me
+a target="\_blank"><img align="left" height="250" width="250" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+
+## 📫 How to Reach me:
 
 <p align="left">
-  <a href="https://join.skype.com/invite/BovXFoNcdbyy" target="_blank"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype" /></a>
-  <a href="https://t.me/amaster0227" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="mailto:ninx.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://t.me/amaster0227" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://join.skype.com/invite/BovXFoNcdbyy" target="blank"><img src="https://img.shields.io/badge/skype-%23181717.svg?style=plastic&logo=skype&logoColor=white" alt="Skype"/></a>
+  <a href="https://t.me/amaster0227" target="blank"><img src="https://img.shields.io/badge/telegram-%23181717.svg?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="ninx.work:@gmail.com"><img src="https://img.shields.io/badge/gmail-%23181717.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/amaster0227"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+<br/>
+
+## Git profile Trophies
+
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunmoon11100&theme=onedark&column=7&no-bg=true" alt="trophy" width="800px"/></a> 
 </p>
 
-## Profile Metrics
-
 <p align="center">
-  <img src="https://gpvc.arturio.dev/ninja-1337" alt="Profile views" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ninja-1337.ninja-1337" alt="Visitors" />
+  <img src="https://gpvc.arturio.dev/sunmoon11100" alt="Profile views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sunmoon11100.sunmoon11100" alt="visitors"/>
 </p>
 
 ---
@@ -219,18 +222,3 @@ As a seasoned blockchain developer, I’ve worked on cutting-edge DeFi projects,
 If you like my profile, please ⭐️ this repository! If you want to use this template, feel free to fork it. I welcome contributions to any of my repositories—submit PRs, issues, or email me at [ninx.work@gmail.com](mailto:ninx.work@gmail.com). If you’d like to meet and discuss proposals or ideas, book a slot via [Calendly](https://calendly.com/ninja-1337/meeting) (please describe your agenda in the booking).
 
 ---
-
-### How to Use This README
-
-1. Save this content in your `README.md` file in the `ninja-1337` repository on GitHub.
-2. Replace placeholder URLs (e.g., `https://github.com/ninja-1337/solana-nft-marketplace`, `ninx.work@gmail.com`, `https://t.me/ninja_1337`, `https://calendly.com/ninja-1337/meeting`) with your actual project, email, Telegram, and Calendly links.
-3. Upload images (e.g., `PotatoPowerClub.png`, `CryptoPig.png`, etc.) to your `ninja-1337` repository in a `projects/` folder and update the image paths in the Markdown (e.g., `https://github.com/ninja-1337/ninja-1337/blob/main/projects/PotatoPowerClub.png?raw=true`).
-4. Ensure your repository is public to display on your profile.
-
-### Notes
-
-- **Images**: Ensure project thumbnails are optimized (e.g., compress with TinyPNG) and uploaded to your repository. Use `?raw=true` to access raw files.
-- **Stats and Icons**: These require no additional setup beyond the URLs provided. GitHub Readme Stats, Skill Icons, and other services dynamically generate content.
-- **Customization**: Adjust the tech stack, projects, and personal details to reflect your exact experience and interests.
-- **Performance**: Keep images and external links optimized to avoid slowing down page loads.
-- **Automation**: Optionally use GitHub Actions to dynamically update stats or visitor counts (see my previous response for workflow examples).
