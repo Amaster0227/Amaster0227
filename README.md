@@ -182,11 +182,11 @@ As a seasoned blockchain developer, I’ve worked on cutting-edge DeFi projects,
   </tr>
 </table>
 
-<div align="center">
 <a target="\_blank"><img align="left" height="200" width="200" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 
 ## 📫 How to Reach me:
 
+<div align="center">
 <p align="left">
   <a href="https://join.skype.com/invite/BovXFoNcdbyy" target="blank"><img src="https://img.shields.io/badge/skype-%23181717.svg?style=plastic&logo=skype&logoColor=white" alt="Skype"/></a>
   <a href="https://t.me/amaster0227" target="blank"><img src="https://img.shields.io/badge/telegram-%23181717.svg?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
@@ -194,6 +194,7 @@ As a seasoned blockchain developer, I’ve worked on cutting-edge DeFi projects,
   <a href="https://github.com/amaster0227"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 </div>
+<br/>
 <br/>
 
 ---
