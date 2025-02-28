@@ -182,7 +182,8 @@ As a seasoned blockchain developer, I’ve worked on cutting-edge DeFi projects,
   </tr>
 </table>
 
-<a target="\_blank"><img align="left" height="250" width="250" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+<div align="center">
+<a target="\_blank"><img align="left" height="200" width="200" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 
 ## 📫 How to Reach me:
 
@@ -192,18 +193,8 @@ As a seasoned blockchain developer, I’ve worked on cutting-edge DeFi projects,
   <a href="ninx.work:@gmail.com"><img src="https://img.shields.io/badge/gmail-%23181717.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://github.com/amaster0227"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
+</div>
 <br/>
-
-## Git profile Trophies
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunmoon11100&theme=onedark&column=7&no-bg=true" alt="trophy" width="800px"/></a> 
-</p>
-
-<p align="center">
-  <img src="https://gpvc.arturio.dev/sunmoon11100" alt="Profile views"/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sunmoon11100.sunmoon11100" alt="visitors"/>
-</p>
 
 ---
 
