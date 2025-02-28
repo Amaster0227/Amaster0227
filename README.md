@@ -162,17 +162,7 @@ As a seasoned blockchain developer, I’ve worked on cutting-edge DeFi projects,
 
 ## GitHub Stats & Trophies
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ninja-1337&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_title=true)
-      </td>
-      <td>
-        ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ninja-1337&theme=github_dark&layout=compact&langs_count=8)
-      </td>
-    </tr>
-  </table>
+<div align="center">  
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ninja-1337&theme=dark&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
   </p>
@@ -192,7 +182,7 @@ As a seasoned blockchain developer, I’ve worked on cutting-edge DeFi projects,
   </tr>
 </table>
 
-a target="\_blank"><img align="left" height="250" width="250" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+<a target="\_blank"><img align="left" height="250" width="250" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 
 ## 📫 How to Reach me:
 
